@@ -1,0 +1,15 @@
+{
+  "id": "/",
+  "name": "দক্ষ হাত - Dokkho Haat",
+  "short_name": "দক্ষ হাত",
+  "description": "বাংলাদেশে দক্ষ মিস্ত্রি খুঁজুন",
+  "lang": "bn-BD",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f8f6",
+  "theme_color": "#0b5b45",
+  "icons": [
+    {"src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
